@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1531784765 source:e:\proyectos facu\praparado\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531784765 e:\proyectos facu\praparado\arraylist.h
+
+1531784765 source:e:\proyectos facu\praparado\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1531784765 e:\proyectos facu\praparado\utn.h
+
+1532481747 source:e:\proyectos facu\praparado\deposito.c
+	"Deposito.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532481759 e:\proyectos facu\praparado\deposito.h
+
+1532602494 source:e:\proyectos facu\praparado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"ArrayList.h"
+	"Deposito.h"
+

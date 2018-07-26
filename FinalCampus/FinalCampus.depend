@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1531793173 source:e:\proyectos facu\finalcampus\logentry.c
+	"LogEntry.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1531792847 e:\proyectos facu\finalcampus\logentry.h
+
+1531790304 source:e:\proyectos facu\finalcampus\service.c
+	"Service.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1531790304 e:\proyectos facu\finalcampus\service.h
+
+1531794909 source:e:\proyectos facu\finalcampus\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"ArrayList.h"
+	"parser.h"
+
+1531784765 source:e:\proyectos facu\finalcampus\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1531784765 e:\proyectos facu\finalcampus\utn.h
+
+1531784765 source:e:\proyectos facu\finalcampus\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531794410 e:\proyectos facu\finalcampus\arraylist.h
+
+1531794881 source:e:\proyectos facu\finalcampus\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"utn.h"
+	"LogEntry.h"
+
+1531794893 e:\proyectos facu\finalcampus\parser.h
+

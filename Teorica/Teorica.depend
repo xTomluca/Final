@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532393263 source:e:\proyectos facu\teorica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
