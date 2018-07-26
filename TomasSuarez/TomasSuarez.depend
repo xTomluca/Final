@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1532570463 source:d:\tls\tomassuarez\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1532570463 d:\tls\tomassuarez\arraylist.h
+
+1532577431 source:d:\tls\tomassuarez\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Entregas.h"
+	"utn.h"
+	"Parser.h"
+	"view.h"
+	"Controller.h"
+
+1532572326 d:\tls\tomassuarez\entregas.h
+
+1532570463 d:\tls\tomassuarez\utn.h
+
+1532572403 d:\tls\tomassuarez\parser.h
+	"ArrayList.h"
+
+1532572167 source:d:\tls\tomassuarez\entregas.c
+	"Entregas.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532570463 source:d:\tls\tomassuarez\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1532572468 source:d:\tls\tomassuarez\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"ArrayList.h"
+	"Entregas.h"
+
+1532577740 source:d:\tls\tomassuarez\view.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Entregas.h"
+	"view.h"
+	"utn.h"
+	"Parser.h"
+	"Localidades.h"
+	"Controller.h"
+
+1532577478 d:\tls\tomassuarez\view.h
+
+1532577709 source:d:\tls\tomassuarez\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Entregas.h"
+	"view.h"
+	"utn.h"
+	"Localidades.h"
+
+1532573091 d:\tls\tomassuarez\localidades.h
+
+1532573091 source:d:\tls\tomassuarez\localidades.c
+	"Localidades.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532575819 d:\tls\tomassuarez\controller.h
+
