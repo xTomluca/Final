@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1530573836 source:e:\preparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"valid.h"
+	"persona.h"
+	"ArrayList.h"
+
+1530476667 source:e:\preparcial\valid.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1530583620 source:e:\preparcial\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"ArrayList.h"
+	"valid.h"
+
+1530480140 e:\preparcial\persona.h
+	"ArrayList.h"
+
+1530579137 source:e:\preparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529860462 e:\preparcial\arraylist.h
+
+1529979906 e:\preparcial\valid.h
+
+1530480447 source:e:\preparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"parser.h"
+
+1530215053 e:\preparcial\parser.h
+	"ArrayList.h"
+

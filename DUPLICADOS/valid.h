@@ -1,0 +1,14 @@
+int verificacionDigito(char *auxCarga, char *mensajeError, int tamanioVector);
+int verificacionChar(char *auxCarga, char *mensajeError, int tamanioVector);
+int getArrayTexto(char* texto,char* textoInstruccion,char* textoError, int limite, int intentos);
+int getNumeroFloat(float numMax, float numMin, float *numero,int intentos,int limiteVector,char *mensaje, char *mensajeError);
+int isValidAll(char* title, char* genre, float* duration, char* description, float* score, char* linkImagen, int intentos);
+int getNumeroInt(int numMax, int numMin, int *numero,int intentos,int limiteVector,char *mensaje, char *mensajeError);
+int getCadenaAZ(char* texto,char* textoInstruccion,char* textoError, int limite, int intentos);
+int getAlfaNumerico(char* texto,char* textoInstruccion,char* textoError, int limite, int intentos);
+int getNumericoInt(int* num,int minNum,int maxNum,char* textoInstruccion,char* textoError, int limite, int intentos,int modo);
+int getNumericoFloat(float* num,char* textoInstruccion,char* textoError, int limite, int intentos);
+int getNombre(char* nombre);
+int getDni(int *dni,int limite,int intentos);
+int getEmail(char* email);
+int getCuit(char* cuit,char* textoInstruccion,char* textoError, int intentos);
