@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1533691832 source:e:\proyectos facu\prefinal\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1533691832 e:\proyectos facu\prefinal\arraylist.h
+
+1533865632 source:e:\proyectos facu\prefinal\localidades.c
+	"Localidades.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1533865632 e:\proyectos facu\prefinal\localidades.h
+
+1533870842 source:e:\proyectos facu\prefinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"Parser.h"
+	"Localidades.h"
+	"Pedidos.h"
+	"Controller.h"
+
+1531784765 e:\proyectos facu\prefinal\utn.h
+
+1531785629 e:\proyectos facu\prefinal\parser.h
+	"ArrayList.h"
+
+1533866036 e:\proyectos facu\prefinal\pedidos.h
+
+1533866025 source:e:\proyectos facu\prefinal\pedidos.c
+	"Pedidos.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1531784765 source:e:\proyectos facu\prefinal\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1533873846 source:e:\proyectos facu\prefinal\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Localidades.h"
+	"Pedidos.h"
+	"Controller.h"
+	"utn.h"
+
+1533866492 source:e:\proyectos facu\prefinal\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Pedidos.h"
+	"Controller.h"
+
+1533870834 e:\proyectos facu\prefinal\controller.h
+
