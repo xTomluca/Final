@@ -2,6 +2,19 @@
 #include <stdlib.h>
 #include <string.h>
 
+/*int pares(int num)
+{
+    int i;
+
+    for(i=0;i<=num;i++)
+    {
+        if(!(num%i))
+            continue;
+        else
+            printf("%d",i);
+    }
+    return i;
+}*/
 
 int main()
 {
@@ -45,15 +58,37 @@ char *cadena;
 cadena = malloc(sizeof(char));
 strcpy(cadena,"Programacion I22222222222222222200'''2¿");
 printf("%s",cadena);*/
-    int i=1;
-    /*for(i=0;i<=100;i+=2)
+/*    int i=1;
+    for(i=0;i<=100;i+=2)
         printf("%d\n",i+1);*/
-   while(i<100){
+/*   while(i<100){
 
         printf("%d\n",i);
         i+=2;
 
-    }
+    }*/
+    /*
+    char cad1[50]="HOLA-PEPE-JOSE";
+    char cad2[50]="-";
+    char* ptr = strtok(cad1,cad2);
+printf("%s",ptr);
+    while((ptr = strtok( NULL, cad2 )) != NULL ){printf("%s",ptr);}
+*/
+    /*
+    pares(numero);
+*/
+ int x, y; x=11; y=13;
+muestra(&x, &y);
+printf("\n-----valores dentro de main----");
+printf("\nx vale %d \ny vale %d", x, y);
+return 0;
 
-    return 0;
 }
+
+
+void muestra(int *x, int *y)
+{
+ *x = *y;
+ printf("\n-----valores dentro de la función muestra----");
+ printf("\nx vale %d \ny vale %d", *x, *y);
+ }

@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1533691832 source:e:\proyectos facu\arreglofinal\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1533691832 e:\proyectos facu\arreglofinal\arraylist.h
+
+1533696572 source:e:\proyectos facu\arreglofinal\entregas.c
+	"utn.h"
+	"Entregas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1531784765 e:\proyectos facu\arreglofinal\utn.h
+
+1533693421 e:\proyectos facu\arreglofinal\entregas.h
+
+1533692920 source:e:\proyectos facu\arreglofinal\localidades.c
+	"Localidades.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1533692920 e:\proyectos facu\arreglofinal\localidades.h
+
+1533784220 source:e:\proyectos facu\arreglofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Entregas.h"
+	"utn.h"
+	"Parser.h"
+	"Controller.h"
+
+1531784765 source:e:\proyectos facu\arreglofinal\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1533694864 source:e:\proyectos facu\arreglofinal\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Entregas.h"
+
+1531785629 e:\proyectos facu\arreglofinal\parser.h
+	"ArrayList.h"
+
+1533784675 source:e:\proyectos facu\arreglofinal\controller.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Entregas.h"
+	"Localidades.h"
+	"utn.h"
+	"Parser.h"
+
+1533784215 e:\proyectos facu\arreglofinal\controller.h
+

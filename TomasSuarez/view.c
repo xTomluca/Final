@@ -44,9 +44,10 @@ void printf_Productos(ArrayList* pEntregas)
         al_map(pEntregas,printf_ImprimirProducto);
     }
 }
-void printf_Localidades(ArrayList* pLocalidades, ArrayList* pEntregas)
+/*void printf_Localidades(ArrayList* pLocalidades, ArrayList* pEntregas)
 {
-    int i, j, index;
+    int i, j;
+    ArrayList* temp;
     char localidad1[128];
     char localidad2[128];
     if(pEntregas!=NULL)
@@ -69,20 +70,20 @@ void printf_Localidades(ArrayList* pLocalidades, ArrayList* pEntregas)
                         if(aux2!=NULL)
                         {
                             Localidades_getLocalidad(aux2,localidad2);
-                            if(strcmp(localidad1,localidad2)==0)
+                            if(strcmp(localidad1,localidad2)!=0)
                             {
-                                index = al_indexOf(pLocalidades,aux2);
-                                al_remove(pLocalidades,index);
+                                al_add(temp,aux2);
                             }
                         }
                     }
                 }
            }
-            //al_map(Localidades,printf_ImprimirLocalidad);
+            //al_map(pLocalidades,printf_ImprimirLocalidad);
         }
 
     }
-}
+}*/
+
 
 
 

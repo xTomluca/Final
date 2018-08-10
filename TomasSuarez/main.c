@@ -36,10 +36,10 @@ int main()
                 printf_Localidades(pLocalidades,pEntregas);
                 break;
 
-                Localidades_add(pEntregas,pLocalidades);
+               /* Localidades_add(pEntregas,pLocalidades);
                 al_sort(pLocalidades,localidades_sort,0);
-                al_map(pLocalidades,printf_ImprimirLocalidad);
-                break;
+                al_map(pLocalidades,printf_ImprimirLocalidad);*/
+                //break;
 
                 //if(!Deposito_migrar(dep0,dep1))
                   //  printf_OperacionExitosa();

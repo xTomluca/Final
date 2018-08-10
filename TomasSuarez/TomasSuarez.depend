@@ -79,3 +79,83 @@
 
 1532575819 d:\tls\tomassuarez\controller.h
 
+1533691832 source:e:\proyectos facu\tomassuarez\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1533691832 e:\proyectos facu\tomassuarez\arraylist.h
+
+1533691832 source:e:\proyectos facu\tomassuarez\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Entregas.h"
+	"view.h"
+	"utn.h"
+	"Localidades.h"
+
+1533691832 e:\proyectos facu\tomassuarez\entregas.h
+
+1533691832 e:\proyectos facu\tomassuarez\view.h
+
+1533691832 e:\proyectos facu\tomassuarez\utn.h
+
+1533691832 e:\proyectos facu\tomassuarez\localidades.h
+
+1533691832 source:e:\proyectos facu\tomassuarez\entregas.c
+	"Entregas.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1533691832 source:e:\proyectos facu\tomassuarez\localidades.c
+	"Localidades.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1533692175 source:e:\proyectos facu\tomassuarez\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Entregas.h"
+	"utn.h"
+	"Parser.h"
+	"view.h"
+	"Controller.h"
+
+1533691832 e:\proyectos facu\tomassuarez\parser.h
+	"ArrayList.h"
+
+1533691832 e:\proyectos facu\tomassuarez\controller.h
+
+1533691832 source:e:\proyectos facu\tomassuarez\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"ArrayList.h"
+	"Entregas.h"
+
+1533691832 source:e:\proyectos facu\tomassuarez\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1533692314 source:e:\proyectos facu\tomassuarez\view.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Entregas.h"
+	"view.h"
+	"utn.h"
+	"Parser.h"
+	"Localidades.h"
+	"Controller.h"
+
